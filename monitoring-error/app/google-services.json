@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686863078553",
+    "project_id": "moviesekolahbeta",
+    "storage_bucket": "moviesekolahbeta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686863078553:android:1a3517919e43e3e2839408",
+        "android_client_info": {
+          "package_name": "com.bilal.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686863078553-i7qfoj6ope839athbhtin15074psp9qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilal.myapplication",
+            "certificate_hash": "c30658e0c35b8844514a47dd43609905e8f55de3"
+          }
+        },
+        {
+          "client_id": "686863078553-tbi0qk06efvoecb11s6ts98m6cv3nm08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuvx_0WWE9SPRM3OKHuqtFjcix5Y9WP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686863078553-tbi0qk06efvoecb11s6ts98m6cv3nm08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
